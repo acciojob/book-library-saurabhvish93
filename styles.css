@@ -15,13 +15,13 @@ body {
 	padding-left: 35%;
 }
 .author {
-	color: #777777;
+	color: rgb(119, 119, 119);
 }
 .price {
 	width: 100%;
 	height: 2rem;
 	background-color: rgb(46, 204, 113);
-	color:white;
+	color:rgb(255, 255, 255);
 	text-align: center;
 	padding-top: 14px;
 	border-radius: 10px;
